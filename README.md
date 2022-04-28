@@ -6,5 +6,4 @@ This data repository is specially for the textbook and lab manual
 
 The second edition of this textbook is:
 Quantitative Methods and Socio-Economic Applications in GIS, 2nd Edition, CRC Press
-Authors: Fahui Wang
-Translator of Chinese Version: Lingbo Liu 
+
