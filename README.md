@@ -1,4 +1,4 @@
-# KNIME-Workbook-wiht-Geospatial-Analytics-Extension-for-KNIME
+# KNIME-Workbook-with-Geospatial-Analytics-Extension-for-KNIME
 ## Computational Methods and GIS Applications in Social Sciences,Third Edition , CRC Press ## 
 **Authors: Fahui Wang, Lingbo Liu**
 
